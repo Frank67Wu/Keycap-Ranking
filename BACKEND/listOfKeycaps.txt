@@ -4,7 +4,6 @@ Fright Club Volume 1
 Tenshi
 Lilac on Black 黑紫
 Handarbeige
-Frost Witch 2
 Taiga 泰茶
 Yutousu 芋头酥
 Regal
@@ -72,7 +71,6 @@ GMK R3
 Pepperoni
 Firefly R2 萤火虫R2
 Nightlight
-Modern Ink
 Tako
 Mika
 Momo Yume
@@ -132,12 +130,11 @@ Deepwell
 Sparta 斯巴达
 Hazakura
 Parcel
-Cyrillic WoB Beige 黑白俄文/灰白俄文
+Cyrillic WoB Beige 黑白俄文 灰白俄文
 Arch
 Sunset Surfing
 Jelly Delights
 Zooted
-Modern Japanese Desko
 Seafarer
 Peaches n Create Lite
 Kouhai
@@ -186,7 +183,6 @@ Stealth
 Avanguardia
 Gregory
 Hanami Dango
-80082
 Serika R2 芹夏R2
 Pink on Navy
 Aurora Polaris 北极光
@@ -218,9 +214,7 @@ Red Devils 红魔鬼
 Yuru
 Posh
 Beta
-Shoko R2 硝子R2
 HammerHead 锤头鲨
-OG Spacekeys R2
 Oni
 Bento R2 便当R2
 Minimal R2 极简白R2
@@ -241,23 +235,19 @@ Red Samurai R2 红武士R2
 Nord
 Midnight Rainbow 午夜彩虹
 Boneyard
-Modern Dolch R2
 Rouge
 Lux
 Redacted
 Classic Blue
 Deep Navy
 Masterpiece 工匠
-Frost Witch
 Wild
-Bleached 漂白
 Black Lotus 黑莲花
 Bushido 武士道
 Nautilus R2 鹦鹉螺R2
 Belafonte
 Hennessey
 Noel
-Dolch R2
 HyperFuse Origins R2
 Skeletor R2 骷髅王R2
 Lunar 追月
@@ -270,7 +260,6 @@ Apollo 阿波罗
 Spirit 陆军
 GodSpeed 神佑
 Zhuyin 注音
-Modern Dolch Light
 Perestroika
 Finer Things
 Hero 英雄
@@ -288,7 +277,6 @@ Toxic 毒药
 High Voltage
 B
 Nautilus Nightmares 噩梦鹦鹉螺
-DualShot R1
 Rudy
 Olivia++
 Ursa
@@ -303,27 +291,21 @@ Nines R2 九R2
 Delta
 DMG R2
 Alter
-Bingsu R1 红豆刨冰R1
 Coral 珊瑚
 Honeywell & Co.
-Dracula 德古拉
 Phosphorous 磷光
 Pretty in Pink 粉红佳人公益增补
-Camping R2 野营R2
 Cafe 咖啡
 Firefly 萤火虫
-Wasabi R1 芥末R1
 Crimson Cadet 猩红学员
 SandStorm 沙暴
 First Love 初恋
-9009 R3
 WoB Hiragana 黑白日文
 Fro.Yo
 Merlin
 Night Runner 夜跑
 Violet on Cream 奶紫
 Missing Keys
-8008
 Voyage 旅行
 Peach n Cream
 Dots 点点点
@@ -331,9 +313,7 @@ Vaporwave 蒸汽波
 Pulse 脉冲
 Handarbeit
 Denim 牛仔裤
-Oblivion R2 码农R2
 Olive 橄榄
-OG Spacekeys R1(L9/CC/CR split spacebars)
 Red Samurai MD 红武士MD
 Mizu
 Striker 前锋
@@ -341,15 +321,12 @@ Darskel 暗黑骷髅
 Eclipse 日蚀
 Nines 九
 Wavez 声波
-Metropolis R1 大都会R1
 SkIIdata 黑橙R2
 Lime 青柠
 Vice Nights 反夜(副夜)
 Cyan 2D
 Paperwork
-Minimal R1 极简白R1
 Deep Space 深空
-Bento R1 便当R1
 Jamon 火腿
 KA 2019 Valentine 2019情人节
 Calm Depths 深海
@@ -358,28 +335,20 @@ Originative Japanese
 Q:01
 Carbon R2 大碳R2
 DMG
-Shoko R1 硝子R1
 Chocolatier 巧克力
 Monochrome 黑白
 Tokyo Nights 东京之夜
-Modern Dolch 摩登豆
-Space Cadet R1 太空学员R1
 Metaverse P5
 N6TU1-CR
 Necro 死灵
 Terminal R2 终端机R2
 Triumph Adler 90 TA90
-Burgundy R2
 Mint Dolch 薄荷豆
 Phantom 幻影
 Serika 芹夏
 Violet Tendencies
 Olivia
-HyperFuse Origins R1
-Red Samurai R1 红武士R1
 Valentine 2018 Cherry KA 2018 Liebe
-Camping 野营
-Taro R1 香芋奶茶R1
 Signal
 Laser 激光
 9009 R2
@@ -392,7 +361,6 @@ TA Royal Alpha 610 Typewriter R2 皇家打字机 R2
 Classic Retro Cyrillic 灰白红俄文
 LedZep 齐柏林飞艇
 Mondrian
-Nautilus R1 鹦鹉螺R1
 Skidolcha
 True Olivetti
 Hyperfuse Redux
@@ -400,12 +368,9 @@ Miami Dusk 迈阿密黄昏
 Solarized Dark
 Miami
 Miami Nights
-Yuri R1
 Aero
 Iris 鸢尾花
-Oblivion R1 码农R1
 Blue Alert
-Burgundy R1
 Corsa Auto 赛道之星
 Muted 缄默
 Penumbra PB
@@ -418,8 +383,7 @@ Pink Valentine Cherry KA 2017 情人节2017
 Exent
 Mint Chocolate 薄荷巧克力
 Soware 瞎眼
-Terminal R1 终端机R1
-Magenta/Devotion
+Magenta Devotion
 3Run
 Dolch Reborn
 Honeywell
@@ -427,24 +391,18 @@ Hydro 水箭龟
 Keyboard & Co.
 Originative
 Uniqey Blue
-Carbon R1 大碳 R1
 Ceresia
-Skeletor R1 骷髅王R1
 Barebones Stormtrooper 风暴兵
 White Blue
-9009 R1
 Classic Retro 经典复古
-TA Royal Alpha 610 Typewriter R1 皇家打字机 R1
 Monkey 猴年
 Valentine 情人节
-SKIDATA+ 黑橙R1
 Sky Dolch
 Triumph Adler TA
 HyperFuse
 Olivetti
 Red Alert
 Cyan
-Dolch R1
 Charred Orange
 Cyrillic 白俄文
 White on Black

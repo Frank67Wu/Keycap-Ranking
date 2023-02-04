@@ -1,5 +1,5 @@
 require('dotenv').config()
-
+const cors = require('cors')
 const express = require('express')
 const mongoose = require('mongoose')
 const keycapsRoutes = require('./routes/keycaps')
@@ -7,7 +7,6 @@ mongoose.set('strictQuery', false);
 
 //express app
 const app = express()
-
 
 // middleware
 app.use(express.json())

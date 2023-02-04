@@ -5,7 +5,8 @@ const {
     getKeycap,
     deleteKeycap,
     updateKeycap,
-    getRandomKeycap
+    getRandomKeycap,
+    deleteAll
 } = require('../controllers/keycapControllers')
 
 const router = express.Router()
@@ -22,8 +23,12 @@ router.get('/:id', getKeycap)
 // POST a new keycap set
 router.post('/', createKeycap)
 
+
+router.delete('/deleteAll', deleteAll)
 // DELETE a keycap set
 router.delete('/:id', deleteKeycap)
+
+
 
 // UPDATE a keycap set
 router.patch('/:id', updateKeycap)

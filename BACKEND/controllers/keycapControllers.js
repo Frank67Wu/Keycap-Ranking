@@ -86,11 +86,21 @@ const updateKeycap = async(req, res) => {
     res.status(200).json(keycap)
 }
 
+const deleteAll = async(req, res) => {
+    const keycap = await Keycap.deleteMany({})
+    if(!keycap) {
+        return res.status(404).json({error: "No such keycap set"})
+    }
+
+    res.status(200).json(keycap)
+}
+
 module.exports = {
     createKeycap,
     getKeycap,
     getKeycaps,
     deleteKeycap,
     updateKeycap,
-    getRandomKeycap
+    getRandomKeycap,
+    deleteAll
 }
